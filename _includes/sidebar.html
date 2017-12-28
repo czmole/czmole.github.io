@@ -1,0 +1,17 @@
+<div class="sidebar">
+    <div class="container sidebar-sticky">
+        <div class="sidebar-about">
+            <h1><a href="{{ site.baseurl }}">new bits on the blog</a></h1>
+        </div>
+
+        <nav class="sidebar-nav">
+            <a class="sidebar-nav-item {% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+            <a class="sidebar-nav-item {% if page.url == '/about/' %} active{% endif %}" href="/about">About</a>
+        </nav>
+
+        <p class='copyright'>
+            &copy; {{ site.time | date: '%Y' }}. All rights reserved. <br/><br/>
+            This blog is hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a> and runs on <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> from the boilerplate <a href="https://github.com/barryclark/jekyll-now" target="_blank" rel="noopener noreferrer">Jekyll-Now</a> The theme is based on <a href="https://github.com/poole/hyde" target="_blank" rel="noopener noreferrer">Hyge</a>.
+        </p>
+    </div>
+</div>
