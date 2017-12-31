@@ -22,7 +22,7 @@ I also love to involve in dev ops and web apps architecture, API design/developm
 
 # Job
 
-I work at a local web studio [11Digits](http://www.11digits.com) were [we create great experiences](http://www.11digits.com/our-work/) for small to medium businesses and startups from marketing websites (mainly WordPress projects) to complicated web applications / CRM / ERP. So if you are in need of something like this, don't hesitate to [give us a shout](http://www.11digits.com/contact/).
+I work at a local web studio [11Digits](http://www.11digits.com) were [we create great experiences](http://www.11digits.com/our-work/) for small to medium businesses and startups from marketing websites (mainly WordPress projects) to medium/large web applications / CRM / ERP. So if you are in need of something like this, don't hesitate to [give us a shout](http://www.11digits.com/contact/).
 
 We are also trying to develop our own products, one of them being [Inpreto.com](https://www.inpreto.com/en/tour/clients-management/) a great tool to manage your customers, invoices, quotes, estimates and expenses/income.
 
