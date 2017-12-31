@@ -20,6 +20,8 @@ I live in [Oradea, Romania](https://www.facebook.com/visitoradea/) I am a self-t
 I am Laravel enthusiast - a framework that I use in most of my projects at work and also on side projects.
 I also love to involve in dev ops and web apps architecture, API design/development, and integrations, payment processors integrations.
 
+You can see more about my activity on [my linkedin profile](https://www.linkedin.com/in/czmole/).
+
 # Job
 
 I work at a local web studio [11Digits](http://www.11digits.com) were [we create great experiences](http://www.11digits.com/our-work/) for small to medium businesses and startups from marketing websites (mainly WordPress projects) to medium/large web applications / CRM / ERP. So if you are in need of something like this, don't hesitate to [give us a shout](http://www.11digits.com/contact/).
