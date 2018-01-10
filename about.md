@@ -15,9 +15,9 @@ published: true
 </table>
 
 
-I live in [Oradea, Romania](https://www.facebook.com/visitoradea/) I am a self-taught web developer and passionate about all things related to this area (especially PHP which I am using daily) and also on the startups world.
+I live in [Oradea, Romania](https://www.facebook.com/visitoradea/) I am a self-taught web developer (PHP mainly) and passionate about all things related to the topic but also on the startups world.
 
-I am Laravel enthusiast - a framework that I use in most of my projects at work and also on side projects.
+I am [Laravel](https://laravel.com) enthusiast - a framework that I use in most of my projects at work and also on side projects.
 I also love to involve in dev ops and web apps architecture, API design/development, and integrations, payment processors integrations.
 
 You can see more about my activity on [my linkedin profile](https://www.linkedin.com/in/czmole/).
