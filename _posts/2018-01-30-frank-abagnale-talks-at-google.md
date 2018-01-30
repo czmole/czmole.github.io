@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frank Abagnale - Catch me if you can - Talks at Google
+title: Frank Abagnale - Catch me if you can
 ---
 Got into this accidentaly and found it very intersting.
 
