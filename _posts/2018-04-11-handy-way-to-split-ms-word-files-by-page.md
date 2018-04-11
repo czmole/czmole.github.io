@@ -11,12 +11,8 @@ Next I needed to create one file for each of the records.
 
 After some google search I got to [this page](https://www.extendoffice.com/documents/word/966-word-split-documents-into-multiple-documents.html).
 
-There are multiple solutions offered but I choose the one using some VBA code and steps (I reproduce them below just in case, but  you can also try the other versions, the MS Word plugin they suggest is pretty cool but you can use it for free for 60 days):
+There are multiple solutions offered but I choose the one using some VBA code and steps (I reproduce them below just in case, but  you can also try the other versions, the MS Word plugin they suggest is pretty cool but you can use it for free for 60 days).
 
-1. Press Alt + F11 keys together to open the Microsoft Visual Basic for Application window;
-
-2. Click Insert > Module, and then paste below VBA code into the new opening Module window.
-
-3. Then click Run button or press F5 key to apply the VBA. Note: The splitting documents will be saved to the same place with the original file.
+After the MS Word split, I used this tool [word2txt](http://www.download25.com/install/zilla-word-to-text-converter.html) to actually have text files out of them.
 
 <script src="https://gist.github.com/czmole/eb70ff0f54053352ef466d5cfd9c8863.js"></script>
