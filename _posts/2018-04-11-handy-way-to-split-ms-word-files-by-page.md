@@ -11,7 +11,7 @@ Next I needed to create one file for each of the records.
 
 After some google search I got to [this page](https://www.extendoffice.com/documents/word/966-word-split-documents-into-multiple-documents.html).
 
-There are multiple solutions offered but I choose the one using some VBA code and steps:
+There are multiple solutions offered but I choose the one using some VBA code and steps (I reproduce them below just in case, but  you can also try the other versions, the MS Word plugin they suggest is pretty cool but you can use it for free for 60 days):
 
 1. Press Alt + F11 keys together to open the Microsoft Visual Basic for Application window;
 
