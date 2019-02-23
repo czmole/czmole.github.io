@@ -11,7 +11,7 @@ Here are a few lines to run to start fresh and have all git-ignored files untrac
 
 ** IMPORTANT NOTE : First commit your current changes, or you will lose them. **
 
-```bash
+```
 git rm -r --cached .
 
 git add .
